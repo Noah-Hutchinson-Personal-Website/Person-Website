@@ -1,0 +1,25 @@
+body{
+   background-color: rgb(61, 91, 136);
+}
+section{
+    display:flex;
+    background-color: rgb(23, 22, 40);
+}
+h1{
+    padding-left:5em;
+    color: rgb(164, 185, 235);
+}
+h2{
+    padding-right:20em;
+    padding-left:1em;
+    color: rgb(255, 255, 255);
+}
+h3{
+    color: white;
+}
+img{
+    border: 5px solid;
+    border-color: rgb(0, 0, 0);
+    height:200px;
+    margin-top:.3em;
+}
